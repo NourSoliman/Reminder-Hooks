@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NourSoliman/Reminder-Hooks/static/css/main.c59cc657.css",
+    "main.js": "/NourSoliman/Reminder-Hooks/static/js/main.3eb7143b.js",
+    "index.html": "/NourSoliman/Reminder-Hooks/index.html",
+    "main.c59cc657.css.map": "/NourSoliman/Reminder-Hooks/static/css/main.c59cc657.css.map",
+    "main.3eb7143b.js.map": "/NourSoliman/Reminder-Hooks/static/js/main.3eb7143b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59cc657.css",
+    "static/js/main.3eb7143b.js"
+  ]
+}

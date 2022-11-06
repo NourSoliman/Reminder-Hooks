@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Reminder-Hooks.git/static/css/main.c59cc657.css",
-    "main.js": "/Reminder-Hooks.git/static/js/main.3eb7143b.js",
-    "index.html": "/Reminder-Hooks.git/index.html",
-    "main.c59cc657.css.map": "/Reminder-Hooks.git/static/css/main.c59cc657.css.map",
-    "main.3eb7143b.js.map": "/Reminder-Hooks.git/static/js/main.3eb7143b.js.map"
+    "main.css": "/Reminder-Hooks/static/css/main.c59cc657.css",
+    "main.js": "/Reminder-Hooks/static/js/main.3eb7143b.js",
+    "index.html": "/Reminder-Hooks/index.html",
+    "main.c59cc657.css.map": "/Reminder-Hooks/static/css/main.c59cc657.css.map",
+    "main.3eb7143b.js.map": "/Reminder-Hooks/static/js/main.3eb7143b.js.map"
   },
   "entrypoints": [
     "static/css/main.c59cc657.css",

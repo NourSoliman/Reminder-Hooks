@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Reminder-Hooks/static/css/main.c59cc657.css",
-    "main.js": "/Reminder-Hooks/static/js/main.3eb7143b.js",
+    "main.js": "/Reminder-Hooks/static/js/main.b1946576.js",
     "index.html": "/Reminder-Hooks/index.html",
     "main.c59cc657.css.map": "/Reminder-Hooks/static/css/main.c59cc657.css.map",
-    "main.3eb7143b.js.map": "/Reminder-Hooks/static/js/main.3eb7143b.js.map"
+    "main.b1946576.js.map": "/Reminder-Hooks/static/js/main.b1946576.js.map"
   },
   "entrypoints": [
     "static/css/main.c59cc657.css",
-    "static/js/main.3eb7143b.js"
+    "static/js/main.b1946576.js"
   ]
 }

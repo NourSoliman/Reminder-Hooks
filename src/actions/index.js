@@ -1,8 +1,8 @@
 import { ADD_REMINDER , REMOVE_REMINDER , REMOVE_ALL } from "../actionTypes/type"
-export const addReminder = (text ,desc , date ) => {
+export const addReminder = (name ,desc , date ) => {
     const action = {
         type : ADD_REMINDER,
-        text : text,
+        name : name,
         desc : desc,
         date: date,
         

@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Reminder-Hooks/static/css/main.c59cc657.css",
-    "main.js": "/Reminder-Hooks/static/js/main.b1946576.js",
+    "main.css": "/Reminder-Hooks/static/css/main.09e1f43a.css",
+    "main.js": "/Reminder-Hooks/static/js/main.da2eec2b.js",
+    "static/media/logo.png.png": "/Reminder-Hooks/static/media/logo.png.b21e1bd0c85c87ce7f5a.png",
+    "static/media/list-icon-notebook-with-completed-todo-list-3d-render_471402-428.webp": "/Reminder-Hooks/static/media/list-icon-notebook-with-completed-todo-list-3d-render_471402-428.da06bb9263d31721b3f6.webp",
     "index.html": "/Reminder-Hooks/index.html",
-    "main.c59cc657.css.map": "/Reminder-Hooks/static/css/main.c59cc657.css.map",
-    "main.b1946576.js.map": "/Reminder-Hooks/static/js/main.b1946576.js.map"
+    "main.09e1f43a.css.map": "/Reminder-Hooks/static/css/main.09e1f43a.css.map",
+    "main.da2eec2b.js.map": "/Reminder-Hooks/static/js/main.da2eec2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c59cc657.css",
-    "static/js/main.b1946576.js"
+    "static/css/main.09e1f43a.css",
+    "static/js/main.da2eec2b.js"
   ]
 }
